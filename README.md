@@ -62,6 +62,10 @@ The dashboard helps policymakers and analysts understand which districts are gro
 
 ---
 
+[![View Power BI Dashboard](https://img.shields.io/badge/Power%20BI-Dashboard-blue?logo=powerbi&style=for-the-badge)](https://app.powerbi.com/view?r=eyJrIjoiMzRlOTQxYzAtNDIyOS00YzFkLWE5ZmMtYjI2M2UyODUwMTU5IiwidCI6ImJhZTllNjhmLWIzZWQtNGQzZC05NjViLTJjMGE5Y2RjZWJjZCJ9)
+
+---
+
 ## 📂 Folder Structure
 
 ```bash
